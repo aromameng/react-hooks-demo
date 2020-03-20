@@ -1,0 +1,2 @@
+(this["webpackJsonpantd-demo-reto"]=this["webpackJsonpantd-demo-reto"]||[]).push([[6],{135:function(e,t,n){"use strict";n.r(t);n(124);var a=n(127),o=n(0),r=n.n(o),c=n(29),u=n(125),l=n(42);t.default=Object(u.a)((function(){var e=Object(c.useStore)(l.a);return console.log("===count===="),r.a.createElement("div",null,r.a.createElement("p",null,e.counter),r.a.createElement(a.a,{type:"primary",onClick:function(){e.setCounter(e.counter+1)}},"Change"),r.a.createElement(a.a,{type:"dashed",onClick:e.reset},"Reset"))}))}}]);
+//# sourceMappingURL=6.57845fdc.chunk.js.map

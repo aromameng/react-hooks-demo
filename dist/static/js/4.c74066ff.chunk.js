@@ -1,0 +1,2 @@
+(this["webpackJsonpantd-demo-reto"]=this["webpackJsonpantd-demo-reto"]||[]).push([[4],{134:function(e,t,a){"use strict";a.r(t);var n=a(0),o=a.n(n);t.default=function(e){return o.a.createElement("div",{className:"about_page"},o.a.createElement("p",null,e.route.name))}}}]);
+//# sourceMappingURL=4.c74066ff.chunk.js.map
